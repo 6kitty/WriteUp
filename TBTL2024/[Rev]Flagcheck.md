@@ -96,5 +96,5 @@ int main() {
     return 0;
 }
 ```
-​![image](https://github.com/6kitty/WriteUp/assets/170162084/c9175a9d-88f2-4b8b-ad5f-edd2c6e57839)
+​![image](https://github.com/6kitty/WriteUp/assets/170162084/c9175a9d-88f2-4b8b-ad5f-edd2c6e57839)  <br/>
 ...안된다... 뭔가를 잘못했나 싶어서 라이트업도 참고 해봤는데 라이트업 코드도 실행이 안된다 왜일까...?
