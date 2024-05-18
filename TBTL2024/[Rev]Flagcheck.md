@@ -96,7 +96,5 @@ int main() {
     return 0;
 }
 ```
-​
-[##_Image|kage@bjhBQV/btsHtQ2HeCf/ylHG9ADdF732nGxLBsOkBk/img.png|CDM|1.3|{"originWidth":622,"originHeight":124,"style":"alignCenter"}_##]
-​
+​![image](https://github.com/6kitty/WriteUp/assets/170162084/c9175a9d-88f2-4b8b-ad5f-edd2c6e57839)
 ...안된다... 뭔가를 잘못했나 싶어서 라이트업도 참고 해봤는데 라이트업 코드도 실행이 안된다 왜일까...?
