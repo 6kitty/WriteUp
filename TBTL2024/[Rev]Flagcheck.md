@@ -28,15 +28,15 @@ int __fastcall main(int argc, const char **argv, const char **envp)
 }
 ```
 ​
-s 길이 63 
+s 길이 63 <br/>
 ​
-seed 값 계산 가능..? -> random에서 쓰는 문자열(ascii) seed는 0~256 
+seed 값 계산 가능..? -> random에서 쓰는 문자열(ascii) seed는 0~256 <br/>
 ​
-v3는 s\[j\] 
+v3는 s\[j\] <br/>
 ​
-(rand()%256)^v3값이 target\[j\]의 값과 같아야 함 
+(rand()%256)^v3값이 target\[j\]의 값과 같아야 함 <br/>
 ​
-이때 rand는 seed가 있으므로 규칙적으로 정해짐 
+이때 rand는 seed가 있으므로 규칙적으로 정해짐 <br/>
 ​
 ```
 33h, 84h, 3Dh, 3Fh, 2Ah, 93h, 7Bh, 82h, 1Ah, 0ACh, 8Eh //11
