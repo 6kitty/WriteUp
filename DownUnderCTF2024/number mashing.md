@@ -1,4 +1,5 @@
 ![image](https://github.com/6kitty/WriteUp/assets/170162084/c81f6c54-0d3a-4f02-af98-ec07d1e30753)
+
 if문들만 피해주면 되는 간단한(그치만겁나많이틀렸다..) 문제 
 
  
