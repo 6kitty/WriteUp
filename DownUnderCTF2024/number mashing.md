@@ -18,11 +18,13 @@ v4=v4*v5가 되는 v4와 v5를 찾아주면 된다
 
 signed라 헷갈리나 싶어서 unsigned로 먼저 생각해보았다. 
 ![image](https://github.com/6kitty/WriteUp/assets/170162084/1376ab1f-ccd8-48e8-a582-536b38c0b5bb)
+
 (나 말고 챗지피티가...)
 결론적으로 안됐다..^^ 
 
 뭔가 또 식을 잘못 세운 거 같다. 
 ![image](https://github.com/6kitty/WriteUp/assets/170162084/b816b70d-3ff6-4b65-9e2b-03512e905f36)
+
 다시 식을 세워서 챗지피티한테 물어봤다.
 
 # Constants
@@ -44,6 +46,7 @@ result = find_triplets(TARGET_PRODUCT, CONSTANT_SUM)
 print(result)
 
 ![image](https://github.com/6kitty/WriteUp/assets/170162084/1d3fdde6-9b06-4140-a641-7e26078abcde)
+
 이렇게 나왔는데 v5는 1이 불가능하다.. if에 걸림 
  
 
