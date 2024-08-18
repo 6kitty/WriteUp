@@ -1,4 +1,4 @@
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/966e3e12-71f2-40e4-9959-089dbfeeebcb/594752dd-44ee-4ac5-914f-634b469d493f/Untitled.png)
+![image](https://github.com/user-attachments/assets/a41746a4-44fc-4215-bb17-8f5ecdf9344b)
 
 https://github.com/o0morgan0o/CistercianNumbers
 
@@ -6,4 +6,5 @@ https://github.com/o0morgan0o/CistercianNumbers
 
 cistercian numbers라고 한다. 
 
+알고리즘에 맞게 변환해주면 
 2930 2023 9108 7317 8184 1520 2638 8862 0380 5320
