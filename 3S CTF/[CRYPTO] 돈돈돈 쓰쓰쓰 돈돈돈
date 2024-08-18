@@ -1,0 +1,13 @@
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/966e3e12-71f2-40e4-9959-089dbfeeebcb/ffb2ef81-2156-47b7-bd50-fe88c8a590e3/Untitled.png)
+
+pcap 파일에서 PSH, ACK를 follow하면… 
+
+2e2e 2d2d2e2e2e 2e2d2d2d2d2e 2e2e2e 2e2e2d2d2e2d 2d2d 2d2d2d2d2d 2e2d2e 2e2e2e 2e 2e2e2d2d2e2d 2d2e2d2e 2d2d2d2d2d 2d2e2e 2e 2d2e2d2e2d2d
+
+이렇게 나오는데 ascii 돌려보면 
+
+.. --... .----. ... ..--.- -- ----- .-. ... . ..--.- -.-. ----- -.. . -.-.--
+
+모스부호이다. 
+
+3S{I7'S_M0RSE_C0DE!}
